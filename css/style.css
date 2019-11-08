@@ -1,0 +1,17 @@
+/******* Typography *******/
+.text-justify {
+  text-align: justify;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.address {
+    font-size: 16px;
+    text-align: right;
+}
+
+.footer-text {
+    font-size: 17px;
+}
